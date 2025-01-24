@@ -1,0 +1,12 @@
+integer_var = 42               # Integer
+float_var = 3.14159            # Float
+string_var = "Hello, Jupyter!" # String
+boolean_var = True             # Boolean
+print("Value of integer_var:", integer_var)
+print("Type of integer_var:", type(integer_var))
+print("\nValue of float_var:", float_var)
+print("Type of float_var:", type(float_var))
+print("\nValue of string_var:", string_var)
+print("Type of string_var:", type(string_var))
+print("\nValue of boolean_var:", boolean_var)
+print("Type of boolean_var:", type(boolean_var))
